@@ -1,12 +1,12 @@
 class TeamPaperLite < Formula
   desc "Team Paper Lite - single-candidate paper pipeline"
   homepage "https://github.com/MrPEAnutbutt/team-paper-lite"
-  version "v0.1.5"
+  version "v0.1.6"
   license :cannot_represent
 
   on_macos do
-    url "https://github.com/MrPEAnutbutt/team-paper-lite-dist/releases/download/v0.1.5/team-paper-lite-darwin-arm64"
-    sha256 "f1cb34556168202c28e9df02c85d733f52aa77a6576ba0c9623cca35bbd7f190"
+    url "https://github.com/MrPEAnutbutt/team-paper-lite-dist/releases/download/v0.1.6/team-paper-lite-darwin-arm64"
+    sha256 "d55245b71b4edde7cf26dd2f94b69eaad77e3352752139c72c94922349672adf"
   end
 
   def install
