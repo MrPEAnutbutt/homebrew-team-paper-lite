@@ -1,12 +1,12 @@
 class TeamPaperLite < Formula
   desc "Team Paper Lite - anchor-model empirical paper pipeline"
   homepage "https://github.com/MrPEAnutbutt/team-paper-lite"
-  version "v1.0.8"
+  version "v1.0.9"
   license :cannot_represent
 
   on_macos do
-    url "https://github.com/MrPEAnutbutt/team-paper-lite-dist/releases/download/v1.0.8/team-paper-lite-darwin-arm64"
-    sha256 "e2d765edc5d154457fda6ee49a34ddfb7f821024d9246828aacb46f079365422"
+    url "https://github.com/MrPEAnutbutt/team-paper-lite-dist/releases/download/v1.0.9/team-paper-lite-darwin-arm64"
+    sha256 "611ef915594878be18708885070719e8935d04e48641bbd5a89a2c1380b2f197"
   end
 
   def install
